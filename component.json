@@ -7,9 +7,9 @@
     "states",
     "routing"
   ],
-  "main": "release/angular-ui-router.min.js",
+  "main": "release/angular-ui-router.js",
   "scripts": [
-    "release/angular-ui-router.min.js"
+    "release/angular-ui-router.js"
   ],
   "license": "MIT",
   "repo": "angular-ui/ui-router"
